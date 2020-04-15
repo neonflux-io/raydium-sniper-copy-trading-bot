@@ -8,17 +8,17 @@
     "dev": "nodemon src/server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "git+https://github.com/topdeveloper0810/express-backend.git",
+  "repository": "git+https://github.com/sn-chr/backend-node.git",
   "keywords": [
     "express",
     "node"
   ],
-  "author": "Lai Deming <laideming935@gmail.com>",
+  "author": "sn-chr <rib.armor@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/topdeveloper0810/express-backend/issues"
+    "url": "https://github.com/sn-chr/backend-node/issues"
   },
-  "homepage": "https://github.com/topdeveloper0810/express-backend#readme",
+  "homepage": "https://github.com/sn-chr/backend-node#readme",
   "devDependencies": {
     "express-validator": "^7.0.1",
     "nodemon": "^3.0.3"
